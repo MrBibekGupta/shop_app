@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313941711709",
+    "project_id": "onlineshopping-4ba0f",
+    "storage_bucket": "onlineshopping-4ba0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313941711709:android:30363191475862a508a6b4",
+        "android_client_info": {
+          "package_name": "com.bepros_shop_app.shop_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiQWCC4qbVpyhAbJcCjVdHLu5k1n5d2lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
